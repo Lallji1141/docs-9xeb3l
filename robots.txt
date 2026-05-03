@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-vszo79.5depositcasino.co.nz/sitemap.xml
